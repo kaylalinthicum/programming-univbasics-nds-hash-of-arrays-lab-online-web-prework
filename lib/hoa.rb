@@ -8,3 +8,5 @@ BASE_HOA = {
 def add_character(show, name)
   hoa[show] << name
 end
+
+add_character(:third_earthers, "Snarf")
